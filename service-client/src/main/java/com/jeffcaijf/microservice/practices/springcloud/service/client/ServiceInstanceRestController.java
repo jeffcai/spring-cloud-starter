@@ -9,12 +9,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * Created by IntelliJ IDEA.
- * User: duqi
- * Date: 2017/3/2
- * Time: 20:36
- */
 @RestController
 public class ServiceInstanceRestController {
 

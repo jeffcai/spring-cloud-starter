@@ -7,12 +7,6 @@ import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
-/**
- * Created by IntelliJ IDEA.
- * User: duqi
- * Date: 2017/3/2
- * Time: 22:55
- */
 @EnableDiscoveryClient //开启服务发现的能力
 @SpringBootApplication
 public class EurekaConsumerApplication {
